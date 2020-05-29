@@ -1,0 +1,4 @@
+# Project exclude paths
+/.gradle/
+/ctx-exception-handel-spring-boot-starter/build/
+/ctx-exception-handel-spring-boot-starter/build/classes/java/main/
